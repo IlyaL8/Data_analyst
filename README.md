@@ -7,3 +7,4 @@
 | [Мобильное приложение продуктов питания](https://github.com/IlyaL8/Data_analyst/tree/main/Food%20products) | Поведение пользователей. Воронка продаж. A/A/B-тест | pandas, plotly, matplotlib, scipy, numpy, math |
 | [Анализ рынка продаж компьютерных игр](https://github.com/IlyaL8/Data_analyst/tree/main/Video%20games) | Выявление закономерностей успешности игр | pandas, seaborn, matplotlib, scipy, numpy |
 | [Принятие решений в бизнесе крупного интернет-магазина](https://github.com/IlyaL8/Data_analyst/tree/main/Online%20store) | Приоритизация гипотез, запуск A/B-теста и анализ результатов | pandas, scipy, matplotlib, numpy |
+| [Рынок заведений общественного питания](https://github.com/IlyaL8/Data_analyst/tree/main/Catering%20establishments) | Подготовка исследования рынка, поиск интересных особенностей и презентация полученных результатов | pandas, seaborn, matplotlib, plotly |
