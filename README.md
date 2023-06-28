@@ -8,3 +8,4 @@
 | [Анализ рынка продаж компьютерных игр](https://github.com/IlyaL8/Data_analyst/tree/main/Video%20games) | Выявление закономерностей успешности игр | pandas, seaborn, matplotlib, scipy, numpy |
 | [Принятие решений в бизнесе крупного интернет-магазина](https://github.com/IlyaL8/Data_analyst/tree/main/Online%20store) | Приоритизация гипотез, запуск A/B-теста и анализ результатов | pandas, scipy, matplotlib, numpy |
 | [Рынок заведений общественного питания](https://github.com/IlyaL8/Data_analyst/tree/main/Catering%20establishments) | Подготовка исследования рынка, поиск интересных особенностей и презентация полученных результатов | pandas, seaborn, matplotlib, plotly |
+| [Исследование объявлений о продаже квартир](https://github.com/IlyaL8/Data_analyst/tree/main/Apartments%20for%20sale) | Выявление параметров, по которым можно определять рыночную стоимость объектов недвижимости | pandas |
